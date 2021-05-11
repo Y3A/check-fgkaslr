@@ -1,6 +1,6 @@
 # check-fgkaslr
 
-Python script to identify the symbols that are not affected by fgkaslr
+Python script to identify the symbols that are not affected by fgkaslr </b>
 Useful during kernel pwn ctfs
 
 + cat /proc/kallsyms and save the result to a text file
